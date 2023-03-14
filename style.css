@@ -3,28 +3,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 @font-face {
   font-family: "Cicle Fina";
-  src: url("/fonts/cicle_fina/Cicle_Fina.ttf");
+  src: url("./fonts/cicle_fina/Cicle_Fina.ttf");
 }
 @font-face {
   font-family: "Cicle Fina Italic";
-  src: url("/fonts/cicle_fina/Cicle_Fina_Italic.ttf");
+  src: url("./fonts/cicle_fina/Cicle_Fina_Italic.ttf");
 }
 @font-face {
   font-family: "Century Gothic";
-  src: url("/fonts/century_gothic/CenturyGothic.ttf");
+  src: url("./fonts/century_gothic/CenturyGothic.ttf");
   font-weight: 200;
 }
 @font-face {
   font-family: "Helvetica LT";
-  src: url("/fonts/helveticaltultracompressed/HelveticaLTStd-UltraComp.otf");
+  src: url("./fonts/helveticaltultracompressed/HelveticaLTStd-UltraComp.otf");
 }
 @font-face {
   font-family: "ColaborateThin";
-  src: url("/fonts/colaborate/ColabThi.otf");
+  src: url("./fonts/colaborate/ColabThi.otf");
 }
 @font-face {
   font-family: "ColaborateMed";
-  src: url("/fonts/colaborate/ColabMed.otf");
+  src: url("./fonts/colaborate/ColabMed.otf");
 }
 /*Обнуление*/
 
